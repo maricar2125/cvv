@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(38, 192, 192);
+}
+
+img {
+    width: 105px;
+}
+h3 {
+    color: rgb(155, 0, 0);
+ }
+
+ hr {
+    background-color: whitesmoke;
+    border-style: none;
+ }
+ h1 {
+    color:gray;
+ }
